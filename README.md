@@ -16,6 +16,9 @@ Este sistema permite extraer estadísticas de partidos de fútbol, realizar aná
 
 3. **Estadísticas**
    - Estadísticas generales del partido, como el número de faltas, tarjetas, intervenciones del portero, balones recuperados y perdidos, entre otros.
+  
+     ![image](https://github.com/user-attachments/assets/4402a70e-951c-4121-96d3-e316db800a91)
+
 
 ## Requisitos
 
